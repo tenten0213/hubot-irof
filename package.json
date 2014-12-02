@@ -1,0 +1,22 @@
+{
+  "name": "hubot-irof",
+  "description": "show a irof image.",
+  "version": "1.0.0",
+  "author": "tenten0213 <takehito.0213@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "irof"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tenten0213/hubot-irof.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tenten0213/hubot-irof/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.8"
+  }
+}
