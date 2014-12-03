@@ -1,6 +1,10 @@
 hubot-irof
 ============
 
+Show a irof image.
+
+![irof-me](irof-me.png)
+
 ## Dependencies
 * None
 
