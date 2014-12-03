@@ -11,7 +11,7 @@ hubot-irof
 * hubot irof me - show a irof.
 
 ## License
-MIT
+Irof Licence Version 0.0001.
 
 ## Author
 [tenten0213](https://github.com/tenten0213)

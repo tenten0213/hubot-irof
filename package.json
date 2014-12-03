@@ -1,9 +1,9 @@
 {
   "name": "hubot-irof",
   "description": "show a irof image.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "tenten0213 <takehito.0213@gmail.com>",
-  "license": "MIT",
+  "license": "Irof Licence Version 0.0001",
   "keywords": [
     "hubot",
     "hubot-scripts",
